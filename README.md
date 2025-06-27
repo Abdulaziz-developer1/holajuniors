@@ -15,13 +15,9 @@ Holajuniors is a clean, responsive website project designed to showcase web deve
 
 ## 🚀 Getting Started
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Abdulaziz-developer1/holajuniors.git
-   cd holajuniors
-   ```
-2. **Open `index.html` in your web browser:**  
-   No installation or build steps required!
+1. Clone the repository and open the project folder.
+2. Open `index.html` in your web browser.
+3. No installation or build steps required!
 
 ## 🗂️ Project Structure
 
@@ -35,11 +31,11 @@ Holajuniors is a clean, responsive website project designed to showcase web deve
 
 ## 🙌 Contributing
 
-Suggestions and contributions are welcome! Feel free to fork, open issues, or submit pull requests.
+Suggestions and contributions are welcome! Feel free to fork and submit improvements.
 
 ## 📄 License
 
-[MIT](LICENSE)
+MIT
 
 ---
 
